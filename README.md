@@ -28,5 +28,6 @@
  - Kayke-Editor, A native text editor with wasm plugin support (In conceptualizing stages)
  - Black-Mass, A random one off indie game that will likely not become anything. Working on for a longer term game jam. Top down open world survival game with elements of horror
  
- ## Currently working for: Only project based contracts, Looking for fulltime
+ ## Currently working for: 
+ Only project based contracts at the moment, Looking for fulltime
   
