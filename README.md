@@ -1,8 +1,8 @@
 # Overview
 
-## Skills
+### Skills
 
-### Languages
+#### Languages
  - Rust
  - Zig
  - Go
@@ -12,13 +12,13 @@
  - javascript(node.js, etc)
  - Java (not preferred)
  
-### Technologies
+#### Technologies
  - web automation (puppeteer, selenium)
  - web frameworks (Django, Rocket, Actix)
  - MongoDb, Sql, Firebase/Firestore
  - Discord bots (discord.js, discordpy, Serenity, Eris)
 
-### Considering
+#### Considering
  - Dart (Flutter)
  - Graphics (Wgpu/Vulkan
 
