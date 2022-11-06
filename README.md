@@ -17,10 +17,12 @@
  - web frameworks (Django, Rocket, Actix)
  - MongoDb, Sql, Firebase/Firestore
  - Discord bots (discord.js, discordpy, Serenity, Eris)
+ - Http api (Reqwest, Hyper, etc)
 
 #### Considering
  - Dart (Flutter)
  - Graphics (Wgpu/Vulkan
+ - Blockchain (Need a project I find valid enough to warrant blockchain)
 
 ## Personal Projects:
  - Kaid Panel, A universal server management tool intended for small community run game servers. (Currently private but active) 
