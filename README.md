@@ -8,11 +8,11 @@
  - Go
  - C
  - Cpp
- - C#
+ - C# (Despise, Not preferred)
  - Full-stack web
  - python
  - javascript(node.js, etc)
- - Java (not preferred)
+ - Java (Despise, Not preferred)
  
 #### Technologies
  - web automation (puppeteer, selenium)
