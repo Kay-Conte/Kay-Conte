@@ -21,7 +21,7 @@
 
 #### Considering
  - Dart (Flutter)
- - Graphics (Wgpu/Vulkan
+ - Graphics (Wgpu/Vulkan)
  - Blockchain (Need a project I find valid enough to warrant blockchain)
 
 ## Personal Projects:
