@@ -7,6 +7,8 @@
  - Zig
  - Go
  - C
+ - Cpp
+ - C#
  - Full-stack web
  - python
  - javascript(node.js, etc)
