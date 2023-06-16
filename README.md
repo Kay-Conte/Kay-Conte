@@ -8,11 +8,9 @@
  - Go
  - C
  - Cpp
- - C# (Despise, Not preferred)
  - Full-stack web
  - python
  - javascript(node.js, etc)
- - Java (Despise, Not preferred)
  
 #### Technologies
  - web automation (puppeteer, selenium)
@@ -28,7 +26,3 @@
 
 ## Current project
 - Recreational: Conways game of life in your terminal
-
- ## Currently working for: 
- Only project based contracts at the moment, Looking for fulltime
-  
