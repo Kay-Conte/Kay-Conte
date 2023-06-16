@@ -26,12 +26,9 @@
  - Graphics (Wgpu/Vulkan)
  - Blockchain (Need a project I find valid enough to warrant blockchain)
 
-## Personal Projects:
- - Kaid Panel, A universal server management tool intended for small community run game servers. (Currently private but active) 
- - Aven-rs, A simple easy to use discord api for the rust language.
- - Kayke-Editor, A native text editor with wasm plugin support (In conceptualizing stages)
- - Black-Mass, A random one off indie game that will likely not become anything. Working on for a longer term game jam. Top down open world survival game with elements of horror
- 
+## Current project
+- Recreational: Conways game of life in your terminal
+
  ## Currently working for: 
  Only project based contracts at the moment, Looking for fulltime
   
