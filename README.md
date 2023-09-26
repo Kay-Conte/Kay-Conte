@@ -17,7 +17,7 @@
  - web frameworks (Django, Rocket, Actix)
  - MongoDb, Sql, Firebase/Firestore
  - Discord bots (discord.js, discordpy, Serenity, Eris)
- - Http api (Reqwest, Hyper, etc)
+ - Http
 
 ## Current project
 - Recreational: Conways game of life in your terminal
